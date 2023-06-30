@@ -1,0 +1,36 @@
+.paragraph{
+    color: gold;
+    position: absolute;
+    font-size: 60px;
+    top: 500px;
+    left: 650px;
+    margin-bottom: -20%;
+}
+.form{
+    position: relative;
+    border: 3px solid white;
+    margin-top: 3%;
+    height: 150px;
+    left: 280px;
+    width: 1000px;
+    border-radius: 5%;
+}
+
+.para1{
+    position: absolute;
+    top: 30px;
+    right: 820px;
+    font-size: 45px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: darkcyan;
+}
+
+.para2{
+    position: absolute;
+    top: 30px;
+    right: 600px;
+    left: 190px;
+    font-size: 45px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(139, 0, 0);
+}

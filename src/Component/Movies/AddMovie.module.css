@@ -1,0 +1,47 @@
+.form{
+    position: relative;
+    border: 3px solid white;
+    margin-top: 3%;
+    height: 150px;
+    left: 280px;
+    width: 1000px;
+    border-radius: 5%;
+    margin-bottom: 7%;
+
+}
+.paragraph{
+    color: gold;
+    position: absolute;
+    font-size: 60px;
+    top: -60px;
+    left: 350px;
+}
+
+.input input{
+    position: absolute;
+    width: 500px;
+    top: 80px;
+    height: 45px;
+    right: 300px;
+    font-size: 40px;
+}
+.input button{
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    top: 80px;
+    right: 60px;
+    font-size: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: darkcyan;
+
+}
+
+.input p{
+    position: absolute;
+    top: 30px;
+    right: 820px;
+    font-size: 45px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: darkcyan;
+}

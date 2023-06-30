@@ -1,0 +1,40 @@
+.box{
+    position: relative;
+    border: 3px solid white;
+    height: 200px;
+    width: 300px;
+    margin-top: 5%;
+    left: 600px;
+    border-radius: 10%;    
+}
+.fun{
+    color: rgb(136, 7, 146);
+    font-size: 50px;
+    margin-left: 8%;
+    margin-top: 0px;
+}
+.btn1{
+    background-color: rgb(112, 162, 62);
+    color: whitesmoke;
+    width: 50px;
+    height: 50px;
+    margin-right: 2%;
+}
+.btn2{
+    background-color: rgb(154, 16, 16);
+    color: whitesmoke;
+    width: 50px;
+    height: 50px;
+}
+.pos{
+    position: absolute;
+    right: 100px;
+    top:70px
+}
+.counter{
+    color:white;
+    position: absolute;
+    font-size: 40px;
+    top: 80px;
+    left: 40px;
+}
